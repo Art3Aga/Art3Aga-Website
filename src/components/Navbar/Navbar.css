@@ -1,0 +1,19 @@
+
+
+.navbar {
+    width: 100%;
+    margin: 0px;
+}
+
+.navbar .container .navbar-brand span:nth-child(1) {
+    color: #66D9EF;
+}
+.navbar .container .navbar-brand span:nth-child(2) {
+    color: #9CDD29;
+}
+.navbar .container .navbar-collapse .navbar-nav a {
+    color: #fafafa;
+}
+.navbar .container .navbar-collapse .navbar-nav a:hover {
+    color: #9CDD29;
+}
